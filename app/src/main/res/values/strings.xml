@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">a Scoreboard</string>
+    <string name="btn_new_game">New Game</string>
+    <string name="btn_load_game">Load Game</string>
+    <string name="btn_exit_game">Exit</string>
+    <string name="player_name">Player name</string>
+    <string name="player_nickname">Player Nickname</string>
+    <string name="drag_to_sort">Drag to Sort</string>
+    <string name="last_played_on">Last Played on:</string>
+    <string name="load">Load</string>
+    <string name="delete">Delete</string>
+    <string name="score">Score</string>
+    <string name="add_score">Add Score</string>
+    <string name="add_score_vertical">A<br/>d<br/>d<br/> <br/>S<br/>c<br/>o<br/>r<br/>e</string>
+    <string name="end_game">End Game</string>
+    <string name="end_game_vertical">E<br/>n<br/>d<br/> <br/>G<br/>a<br/>m<br/>e</string>
+    <string name="save_info_text_1">The Game is auto saved.</string>
+    <string name="save_info_text_2">You can rename the Game if you like.</string>
+    <string name="game_name">Game name</string>
+    <string name="proceed">Proceed</string>
+    <string name="cancel">Cancel</string>
+    <string name="number_short">No.</string>
+    <string name="app_icon">App Icon</string>
+
+    <!--Ad Strings-->
+    <string name="ad_application_id">ca-app-pub-2370258014728845~5809172616</string>
+    <string name="banner_unit_id">ca-app-pub-3940256099942544/6300978111</string>//this is the test unit id for banner ads. Do not change for debug apk.
+    <string name="interstitial_unit_id_start_game">ca-app-pub-3940256099942544/1033173712</string>//this is the test unit id for interstitial ads. Do not change for debug apk.
+    <string name="interstitial_unit_id_exit">ca-app-pub-3940256099942544/1033173712</string>//this is the test unit id for interstitial ads. Do not change for debug apk.
+</resources>
